@@ -1,6 +1,6 @@
 [build]
-  publish = "home/"
+  publish = "Home/"
 [[redirects]]
   from = "/*"
-  to = "/home/index.html"
+  to = "/Home/index.html"
   status = 200
